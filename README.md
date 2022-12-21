@@ -12,12 +12,13 @@ Id|Read|Book
 :--|:--|:--:
 1 | 🟢  Read   | Think Python: How to Think Like a Computer Scientist
 2 | 🟢  Read   | Data Science from Scratch: First Principles with Python
-3 | 🔵 Reading | Learning MySQL and MariaDB
-4 | ⚪️ On Hold | Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
-5 | ⚪️ On Hold | Practical Statistics for Data Scientists
-6 | ⚪️ On Hold | Clean Code: A Handbook of Agile Software Craftsmanship
-7 | ⚪️ On Hold | Clean Architecture: A Craftsman's Guide to Software Structure and Design
-8 | ⚪️ On Hold | The Clean Coder: A Code of Conduct for Professional Programmers
+3 | 🔵 Reading | Django 4 by example
+4 | 🔵 Reading | Learning MySQL and MariaDB
+5 | ⚪️ On Hold | Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
+6 | ⚪️ On Hold | Practical Statistics for Data Scientists
+7 | ⚪️ On Hold | Clean Code: A Handbook of Agile Software Craftsmanship
+8 | ⚪️ On Hold | Clean Architecture: A Craftsman's Guide to Software Structure and Design
+9 | ⚪️ On Hold | The Clean Coder: A Code of Conduct for Professional Programmers
 
 
 <!-- :white_check_mark:| :heavy_check_mark: ✅✔️☑️
