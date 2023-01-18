@@ -19,6 +19,7 @@ Id|Read|Book
 7 | ⚪️ On Hold | Clean Code: A Handbook of Agile Software Craftsmanship
 8 | ⚪️ On Hold | Clean Architecture: A Craftsman's Guide to Software Structure and Design
 9 | ⚪️ On Hold | The Clean Coder: A Code of Conduct for Professional Programmers
+10| ⚪️ On Hold | Tableau Strategies: Solving Real, Practical Problems with Data Analytics
 
 
 <!-- :white_check_mark:| :heavy_check_mark: ✅✔️☑️
