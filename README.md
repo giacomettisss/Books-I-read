@@ -14,7 +14,7 @@ Id|Read|Book
 2 | 🟢  Read   | Data Science from Scratch: First Principles with Python
 3 | 🟢  Read   | Getting Started with SQL: A Hands-On Approach for Beginners
 4 | 🔵 Reading | Learning MySQL and MariaDB
-3 | ⚪️ Reading | Django 4 by example
+3 | 🔵 Reading | Django 4 by example
 5 | ⚪️ On Hold | Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
 6 | ⚪️ On Hold | Practical Statistics for Data Scientists
 7 | ⚪️ On Hold | Clean Code: A Handbook of Agile Software Craftsmanship
