@@ -12,6 +12,7 @@ Id|Read|Book
 :--|:--|:--:
 1 | 🟢  Read   | Think Python: How to Think Like a Computer Scientist
 2 | 🟢  Read   | Data Science from Scratch: First Principles with Python
+3 | 🟢  Read   | Getting Started with SQL: A Hands-On Approach for Beginners
 4 | 🔵 Reading | Learning MySQL and MariaDB
 3 | ⚪️ Reading | Django 4 by example
 5 | ⚪️ On Hold | Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
