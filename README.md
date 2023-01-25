@@ -10,17 +10,18 @@
 
 Id|Read|Book
 :--|:--|:--:
-1 | 🟢  Read   | Think Python: How to Think Like a Computer Scientist
-2 | 🟢  Read   | Data Science from Scratch: First Principles with Python
-3 | 🟢  Read   | Getting Started with SQL: A Hands-On Approach for Beginners
-4 | 🔵 Reading | Learning MySQL and MariaDB
-3 | 🔵 Reading | Django 4 by example
-5 | ⚪️ On Hold | Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
-6 | ⚪️ On Hold | Practical Statistics for Data Scientists
-7 | ⚪️ On Hold | Clean Code: A Handbook of Agile Software Craftsmanship
-8 | ⚪️ On Hold | Clean Architecture: A Craftsman's Guide to Software Structure and Design
-9 | ⚪️ On Hold | The Clean Coder: A Code of Conduct for Professional Programmers
-10| ⚪️ On Hold | Tableau Strategies: Solving Real, Practical Problems with Data Analytics
+1  | 🟢  Read   | Think Python: How to Think Like a Computer Scientist
+2  | 🟢  Read   | Data Science from Scratch: First Principles with Python
+3  | 🟢  Read   | Getting Started with SQL: A Hands-On Approach for Beginners
+4  | 🟢  Read   | Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Jupyter
+5  | 🔵 Reading | Learning MySQL and MariaDB
+6  | 🔵 Reading | Django 4 by example
+7  | ⚪️ On Hold | Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
+8  | ⚪️ On Hold | Practical Statistics for Data Scientists
+9  | ⚪️ On Hold | Clean Code: A Handbook of Agile Software Craftsmanship
+10 | ⚪️ On Hold | Clean Architecture: A Craftsman's Guide to Software Structure and Design
+11 | ⚪️ On Hold | The Clean Coder: A Code of Conduct for Professional Programmers
+10 | ⚪️ On Hold | Tableau Strategies: Solving Real, Practical Problems with Data Analytics
 
 
 <!-- :white_check_mark:| :heavy_check_mark: ✅✔️☑️
