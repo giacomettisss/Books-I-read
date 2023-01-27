@@ -9,7 +9,7 @@
 7. Clean Architecture: A Craftsman's Guide to Software Structure and Design [On Hold]  -->
 
 Id|Read|Focus|Book
-:--|:--|:--:|:--
+:--|:--:|:--|:--
 1  | 🔵 Reading | Django             | [Django 4 by example](https://www.amazon.com.br/Django-Example-powerful-reliable-applications/dp/1801813051)
 2  | 🔵 Reading | MySQl/MariaDB      | [Learning MySQL and MariaDB](https://www.amazon.com.br/Learning-MySQL-MariaDB-Russell-Dyer/dp/1449362907)
 3  | 🟢  Read   | Python             | [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com.br/Think-Python-2e-Allen-Downey/dp/1491939362)
