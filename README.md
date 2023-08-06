@@ -18,7 +18,7 @@ Id|Read|Focus|Book
 6  | 🟢  Read   | Regex              | [Introducing Regular Expressions: Unraveling Regular Expressions, Step-By-Step](https://www.amazon.com.br/Introducing-Regular-Expressions-Michael-Fitzgerald/dp/1449392687)
 7  | 🟢  Read   | Json               | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.com.br/Introduction-JavaScript-Object-Notation-Point-ebook/dp/B013HA441A)
 8  | 🟢  Read   | Data Analytics     | [Python for Data Analysis: Data Wrangling with Pandas, Numpy, and Jupyter](https://www.amazon.com.br/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X)
-9  | ⚪️ On Hold | Python             | [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability/dp/1593278780)
+9  | 🟢  Read   | Python             | [Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More](https://www.amazon.com.br/Serious-Python-Black-Belt-Deployment-Scalability/dp/1593278780)
 10 | ⚪️ On Hold | Data Science       | [Practical Statistics for Data Scientists](https://www.amazon.com.br/Practical-Statistics-Scientists-Peter-Bruce/dp/1491952962)
 11 | ⚪️ On Hold | Software Design    |[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 12 | ⚪️ On Hold | Software Design    | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
